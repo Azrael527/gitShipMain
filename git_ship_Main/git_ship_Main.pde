@@ -10,7 +10,7 @@ boolean displays = true; //powers up left and right cockpit displays
 boolean attitudeControl = false;
 boolean artificialGravity = false;
 boolean sensors = false; //turns on sensors
-boolean parkingBrake = true;
+boolean parkingBrake = false;
 boolean shields = false; //turns on shields
 
 boolean redAlert = false; //turns on red alert
